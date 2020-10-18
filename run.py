@@ -1,9 +1,11 @@
 import os
+import re
 from PIL import Image
 import IPython
 import glob
 from math import log
 import argparse
+import shutil
 
 os.system("mkdir dataset")
 os.system("mkdir out")
@@ -26,13 +28,24 @@ def get_histogram_dispersion(histogram):
         
 
 def main(args):
+    print("PDF Data Directory: ", args.data_dir)
     for g_f in glob.glob(args.data_dir + "/*.pdf"):
-        g = g_f.split("/")[-1]
+        # Rename PDFs removing all special characters and spaces
+        old_name = os.path.basename(g_f)
+        print(f"Old Name: {old_name})
+        old_name = old_name.replace(".pdf", "").replace(" ", "_")
+        new_name = re.sub(r'[^\w]|^_', '', old_name)
+        new_name = new_name + ".pdf"        
+        new_g_f = os.path.join(args.data_dir, new_name)
+        os.rename(g_f, new_g_f)
+        print(f"New Name: {new_name}")
+        g = new_g_f.split("/")[-1]
+
         os.system("rm dataset/*")
         os.system("rm out/*")
         command = (
             "convert -background white  -alpha remove -alpha off -density 200 '"
-            + g_f
+            + new_g_f
             + "'[1-" + str(args.max_page) + "]  png24:dataset/"
             + g
             + "-%04d.png"
@@ -47,8 +60,16 @@ def main(args):
         )
         os.system(command2)
         if not os.path.exists("out/out.csv"):
-            print("No pic found for " + g_f )
+            print("No pic found for " + new_g_f)
+            
+            # Create a directory to copy pdf where an image could not be extracted.
+            not_extracted_dir = os.path.join(os.path.dirname(args.data_dir), os.path.basename(args.data_dir) + "_Not_Extracted")
+            if not os.path.exists(not_extracted_dir):
+                os.mkdir(not_extracted_dir)
+            print(f"Copying the pdf to {not_extracted_dir}")
+            shutil.copy2(new_g_f, not_extracted_dir)
             continue
+        
         best = -1e9
         for i, l in enumerate(open("out/out.csv")):
             print(i)
