@@ -32,7 +32,7 @@ def main(args):
     for g_f in glob.glob(args.data_dir + "/*.pdf"):
         # Rename PDFs removing all special characters and spaces
         old_name = os.path.basename(g_f)
-        print(f"Old Name: {old_name})
+        print(f"Old Name: {old_name}")
         old_name = old_name.replace(".pdf", "").replace(" ", "_")
         new_name = re.sub(r'[^\w]|^_', '', old_name)
         new_name = new_name + ".pdf"        
