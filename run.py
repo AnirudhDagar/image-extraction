@@ -40,6 +40,12 @@ def main(args):
         os.rename(g_f, new_g_f)
         print(f"New Name: {new_name}")
         g = new_g_f.split("/")[-1]
+        
+        # Check if image has been extracted already
+        img_exist = new_name + ".png"
+        if os.path.exists(os.path.join(args.out_dir, img_exist)):
+            print(f"{img_exist} already exists!")
+            continue
 
         os.system("rm dataset/*")
         os.system("rm out/*")
