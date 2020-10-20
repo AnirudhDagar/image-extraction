@@ -6,6 +6,7 @@ import glob
 from math import log
 import argparse
 import shutil
+import time
 
 os.system("mkdir dataset")
 os.system("mkdir out")
@@ -107,4 +108,6 @@ if __name__ == "__main__":
     parser.add_argument("--max_page", default=20, help="Max Page")
     parser.add_argument("--no_rename", action='store_true', default=False, help="Do not rename pdfs")
     args = parser.parse_args()
+    start = time.time()
     main(args)
+    print("Elapsed Time: ", time.time() - start)
