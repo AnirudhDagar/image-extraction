@@ -30,17 +30,22 @@ def get_histogram_dispersion(histogram):
 def main(args):
     print("PDF Data Directory: ", args.data_dir)
     for g_f in glob.glob(args.data_dir + "/*.pdf"):
-        # Rename PDFs removing all special characters and spaces
         old_name = os.path.basename(g_f)
-        print(f"Old Name: {old_name}")
-        old_name = old_name.replace(".pdf", "").replace(" ", "_")
-        new_name = re.sub(r'[^\w]|^_', '', old_name)
-        new_name = new_name + ".pdf"        
-        new_g_f = os.path.join(args.data_dir, new_name)
-        os.rename(g_f, new_g_f)
-        print(f"New Name: {new_name}")
+        if not args.no_rename:
+            # Rename PDFs removing all special characters and spaces
+            print(f"Old Name: {old_name}")
+            old_name = old_name.replace(".pdf", "").replace(" ", "_")
+            new_name = re.sub(r'[^\w]|^_', '', old_name)
+            new_name = new_name + ".pdf"        
+            new_g_f = os.path.join(args.data_dir, new_name)
+            os.rename(g_f, new_g_f)
+            print(f"New Name: {new_name}")
+        else:
+            new_name = old_name
+            new_g_f = g_f
+
         g = new_g_f.split("/")[-1]
-        
+
         # Check if image has been extracted already
         img_exist = new_name + ".png"
         if os.path.exists(os.path.join(args.out_dir, img_exist)):
@@ -100,5 +105,6 @@ if __name__ == "__main__":
     parser.add_argument("data_dir", help="Dataset path with pdfs")
     parser.add_argument("out_dir", help="Output path with pngs")
     parser.add_argument("--max_page", default=20, help="Max Page")
+    parser.add_argument("--no_rename", action='store_true', default=False, help="Do not rename pdfs")
     args = parser.parse_args()
     main(args)
