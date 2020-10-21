@@ -1,0 +1,8 @@
+Total PDFs: 330, Total Images: 323, Total Missing Images: 7
+../data/paper_pdfs/NAACL_2018_Pics/botschen-etal-2018-multimodal.pdf.png
+../data/paper_pdfs/NAACL_2018_Pics/rama-etal-2018-automatic.pdf.png
+../data/paper_pdfs/NAACL_2018_Pics/fernandez-gonzalez-gomez-rodriguez-2018-dynamic.pdf.png
+../data/paper_pdfs/NAACL_2018_Pics/wu-tsai-2018-cross.pdf.png
+../data/paper_pdfs/NAACL_2018_Pics/kashefi-etal-2018-semantic.pdf.png
+../data/paper_pdfs/NAACL_2018_Pics/schluter-2018-word.pdf.png
+../data/paper_pdfs/NAACL_2018_Pics/sanchez-etal-2018-behavior.pdf.png

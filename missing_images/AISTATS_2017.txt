@@ -1,0 +1,14 @@
+Total PDFs: 167, Total Images: 154, Total Missing Images: 13
+../data/paper_pdfs/AISTATS_2017_Pics/zhong17a.pdf.png
+../data/paper_pdfs/AISTATS_2017_Pics/alabdulmohsin17a.pdf.png
+../data/paper_pdfs/AISTATS_2017_Pics/park17a.pdf.png
+../data/paper_pdfs/AISTATS_2017_Pics/mehta17a.pdf.png
+../data/paper_pdfs/AISTATS_2017_Pics/ghoshal17a.pdf.png
+../data/paper_pdfs/AISTATS_2017_Pics/ghoshal17b.pdf.png
+../data/paper_pdfs/AISTATS_2017_Pics/zimin17a.pdf.png
+../data/paper_pdfs/AISTATS_2017_Pics/locatello17a.pdf.png
+../data/paper_pdfs/AISTATS_2017_Pics/li17a.pdf.png
+../data/paper_pdfs/AISTATS_2017_Pics/chen17a.pdf.png
+../data/paper_pdfs/AISTATS_2017_Pics/korba17a.pdf.png
+../data/paper_pdfs/AISTATS_2017_Pics/galliani17a.pdf.png
+../data/paper_pdfs/AISTATS_2017_Pics/kwon17a.pdf.png

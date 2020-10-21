@@ -1,0 +1,20 @@
+Total PDFs: 302, Total Images: 283, Total Missing Images: 19
+../data/paper_pdfs/ACL_2017_Pics/jiang-etal-2017-understanding.pdf.png
+../data/paper_pdfs/ACL_2017_Pics/marie-fujita-2017-efficient.pdf.png
+../data/paper_pdfs/ACL_2017_Pics/wang-etal-2017-discourse.pdf.png
+../data/paper_pdfs/ACL_2017_Pics/beigman-klebanov-etal-2017-detecting.pdf.png
+../data/paper_pdfs/ACL_2017_Pics/shi-knight-2017-speeding.pdf.png
+../data/paper_pdfs/ACL_2017_Pics/chen-etal-2017-improving.pdf.png
+../data/paper_pdfs/ACL_2017_Pics/shen-etal-2017-conditional.pdf.png
+../data/paper_pdfs/ACL_2017_Pics/abend-rappoport-2017-state.pdf.png
+../data/paper_pdfs/ACL_2017_Pics/jamshid-lou-johnson-2017-disfluency.pdf.png
+../data/paper_pdfs/ACL_2017_Pics/chen-etal-2017-automatically.pdf.png
+../data/paper_pdfs/ACL_2017_Pics/dahlmeier-2017-challenges.pdf.png
+../data/paper_pdfs/ACL_2017_Pics/hayashi-shimbo-2017-equivalence.pdf.png
+../data/paper_pdfs/ACL_2017_Pics/wroblewska-krasnowska-kieras-2017-polish.pdf.png
+../data/paper_pdfs/ACL_2017_Pics/son-etal-2017-recognizing.pdf.png
+../data/paper_pdfs/ACL_2017_Pics/cheng-etal-2017-generative.pdf.png
+../data/paper_pdfs/ACL_2017_Pics/gittens-etal-2017-skip.pdf.png
+../data/paper_pdfs/ACL_2017_Pics/teneva-cheng-2017-salience.pdf.png
+../data/paper_pdfs/ACL_2017_Pics/wang-etal-2017-two.pdf.png
+../data/paper_pdfs/ACL_2017_Pics/khot-etal-2017-answering.pdf.png

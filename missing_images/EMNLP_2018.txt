@@ -1,0 +1,15 @@
+Total PDFs: 549, Total Images: 535, Total Missing Images: 14
+../data/paper_pdfs/EMNLP_2018_Pics/chen-etal-2018-word.pdf.png
+../data/paper_pdfs/EMNLP_2018_Pics/su-etal-2018-discriminative.pdf.png
+../data/paper_pdfs/EMNLP_2018_Pics/goldin-etal-2018-native.pdf.png
+../data/paper_pdfs/EMNLP_2018_Pics/ghaeini-etal-2018-interpreting.pdf.png
+../data/paper_pdfs/EMNLP_2018_Pics/gu-etal-2018-meta.pdf.png
+../data/paper_pdfs/EMNLP_2018_Pics/wuebker-etal-2018-compact.pdf.png
+../data/paper_pdfs/EMNLP_2018_Pics/baly-etal-2018-predicting.pdf.png
+../data/paper_pdfs/EMNLP_2018_Pics/luo-glass-2018-learning.pdf.png
+../data/paper_pdfs/EMNLP_2018_Pics/petrochuk-zettlemoyer-2018-simplequestions.pdf.png
+../data/paper_pdfs/EMNLP_2018_Pics/shi-etal-2018-tree.pdf.png
+../data/paper_pdfs/EMNLP_2018_Pics/wang-poon-2018-deep.pdf.png
+../data/paper_pdfs/EMNLP_2018_Pics/shen-etal-2018-improved.pdf.png
+../data/paper_pdfs/EMNLP_2018_Pics/joulin-etal-2018-loss.pdf.png
+../data/paper_pdfs/EMNLP_2018_Pics/verma-etal-2018-syntactical.pdf.png

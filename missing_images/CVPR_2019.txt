@@ -1,0 +1,3 @@
+Total PDFs: 1292, Total Images: 1290, Total Missing Images: 2
+../data/paper_pdfs/CVPR_2019_Pics/20191244.pdf.png
+../data/paper_pdfs/CVPR_2019_Pics/2019526.pdf.png

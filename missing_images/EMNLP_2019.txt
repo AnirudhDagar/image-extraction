@@ -1,0 +1,25 @@
+Total PDFs: 681, Total Images: 657, Total Missing Images: 24
+../data/paper_pdfs/EMNLP_2019_Pics/davison-etal-2019-commonsense.pdf.png
+../data/paper_pdfs/EMNLP_2019_Pics/huang-etal-2019-cosmos.pdf.png
+../data/paper_pdfs/EMNLP_2019_Pics/chen-etal-2019-enteval.pdf.png
+../data/paper_pdfs/EMNLP_2019_Pics/shao-etal-2019-aggregating.pdf.png
+../data/paper_pdfs/EMNLP_2019_Pics/han-eisenstein-2019-unsupervised.pdf.png
+../data/paper_pdfs/EMNLP_2019_Pics/kocijan-etal-2019-wikicrem.pdf.png
+../data/paper_pdfs/EMNLP_2019_Pics/mayhew-etal-2019-ner.pdf.png
+../data/paper_pdfs/EMNLP_2019_Pics/wadden-etal-2019-entity.pdf.png
+../data/paper_pdfs/EMNLP_2019_Pics/peng-etal-2019-palm.pdf.png
+../data/paper_pdfs/EMNLP_2019_Pics/byrne-etal-2019-taskmaster.pdf.png
+../data/paper_pdfs/EMNLP_2019_Pics/beltagy-etal-2019-scibert.pdf.png
+../data/paper_pdfs/EMNLP_2019_Pics/renduchintala-etal-2019-spelling.pdf.png
+../data/paper_pdfs/EMNLP_2019_Pics/schwab-etal-2019-buster.pdf.png
+../data/paper_pdfs/EMNLP_2019_Pics/thorne-etal-2019-evaluating.pdf.png
+../data/paper_pdfs/EMNLP_2019_Pics/dong-de-melo-2019-robust.pdf.png
+../data/paper_pdfs/EMNLP_2019_Pics/bao-etal-2019-low.pdf.png
+../data/paper_pdfs/EMNLP_2019_Pics/kovaleva-etal-2019-revealing.pdf.png
+../data/paper_pdfs/EMNLP_2019_Pics/wang-etal-2019-learning.pdf.png
+../data/paper_pdfs/EMNLP_2019_Pics/andor-etal-2019-giving.pdf.png
+../data/paper_pdfs/EMNLP_2019_Pics/trichelair-etal-2019-reasonable.pdf.png
+../data/paper_pdfs/EMNLP_2019_Pics/sung-etal-2019-pre.pdf.png
+../data/paper_pdfs/EMNLP_2019_Pics/zeng-etal-2019-dirichlet.pdf.png
+../data/paper_pdfs/EMNLP_2019_Pics/tsai-etal-2019-transformer.pdf.png
+../data/paper_pdfs/EMNLP_2019_Pics/simpson-gurevych-2019-bayesian.pdf.png

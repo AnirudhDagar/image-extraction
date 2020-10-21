@@ -1,0 +1,16 @@
+Total PDFs: 322, Total Images: 307, Total Missing Images: 15
+../data/paper_pdfs/ICML_2016_Pics/bhattacharya16.pdf.png
+../data/paper_pdfs/ICML_2016_Pics/chiang16.pdf.png
+../data/paper_pdfs/ICML_2016_Pics/safran16.pdf.png
+../data/paper_pdfs/ICML_2016_Pics/germain16.pdf.png
+../data/paper_pdfs/ICML_2016_Pics/rakhlin16.pdf.png
+../data/paper_pdfs/ICML_2016_Pics/newling16.pdf.png
+../data/paper_pdfs/ICML_2016_Pics/gilad-bachrach16.pdf.png
+../data/paper_pdfs/ICML_2016_Pics/tu16.pdf.png
+../data/paper_pdfs/ICML_2016_Pics/shamirb16.pdf.png
+../data/paper_pdfs/ICML_2016_Pics/arjevani16.pdf.png
+../data/paper_pdfs/ICML_2016_Pics/thomasa16.pdf.png
+../data/paper_pdfs/ICML_2016_Pics/kasiviswanathan16.pdf.png
+../data/paper_pdfs/ICML_2016_Pics/puleo16.pdf.png
+../data/paper_pdfs/ICML_2016_Pics/yenb16.pdf.png
+../data/paper_pdfs/ICML_2016_Pics/baib16.pdf.png

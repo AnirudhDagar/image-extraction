@@ -1,0 +1,20 @@
+Total PDFs: 778, Total Images: 759, Total Missing Images: 19
+../data/paper_pdfs/ACL_2020_Pics/jawanpuria-etal-2020-geometry.pdf.png
+../data/paper_pdfs/ACL_2020_Pics/yin-etal-2020-robustness.pdf.png
+../data/paper_pdfs/ACL_2020_Pics/zhelezniak-etal-2020-estimating.pdf.png
+../data/paper_pdfs/ACL_2020_Pics/emerson-2020-goals.pdf.png
+../data/paper_pdfs/ACL_2020_Pics/jacovi-goldberg-2020-towards.pdf.png
+../data/paper_pdfs/ACL_2020_Pics/seddah-etal-2020-building.pdf.png
+../data/paper_pdfs/ACL_2020_Pics/setiawan-etal-2020-variational.pdf.png
+../data/paper_pdfs/ACL_2020_Pics/leins-etal-2020-give.pdf.png
+../data/paper_pdfs/ACL_2020_Pics/artetxe-etal-2020-call.pdf.png
+../data/paper_pdfs/ACL_2020_Pics/trott-etal-2020-construing.pdf.png
+../data/paper_pdfs/ACL_2020_Pics/murty-etal-2020-expbert.pdf.png
+../data/paper_pdfs/ACL_2020_Pics/gartner-jung-2020-boldly.pdf.png
+../data/paper_pdfs/ACL_2020_Pics/williams-etal-2020-predicting.pdf.png
+../data/paper_pdfs/ACL_2020_Pics/flek-2020-returning.pdf.png
+../data/paper_pdfs/ACL_2020_Pics/linzen-2020-accelerate.pdf.png
+../data/paper_pdfs/ACL_2020_Pics/edunov-etal-2020-evaluation.pdf.png
+../data/paper_pdfs/ACL_2020_Pics/rivas-rojas-etal-2020-efficient.pdf.png
+../data/paper_pdfs/ACL_2020_Pics/zhang-danescu-niculescu-mizil-2020-balancing.pdf.png
+../data/paper_pdfs/ACL_2020_Pics/beigman-klebanov-madnani-2020-automated.pdf.png

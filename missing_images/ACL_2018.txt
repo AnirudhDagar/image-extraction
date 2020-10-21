@@ -1,0 +1,12 @@
+Total PDFs: 381, Total Images: 370, Total Missing Images: 11
+../data/paper_pdfs/ACL_2018_Pics/rashkin-etal-2018-modeling.pdf.png
+../data/paper_pdfs/ACL_2018_Pics/zhu-etal-2018-exploring.pdf.png
+../data/paper_pdfs/ACL_2018_Pics/petrushkov-etal-2018-learning.pdf.png
+../data/paper_pdfs/ACL_2018_Pics/lei-etal-2018-multi.pdf.png
+../data/paper_pdfs/ACL_2018_Pics/collell-moens-2018-neural.pdf.png
+../data/paper_pdfs/ACL_2018_Pics/kornilova-etal-2018-party.pdf.png
+../data/paper_pdfs/ACL_2018_Pics/cozma-etal-2018-automated.pdf.png
+../data/paper_pdfs/ACL_2018_Pics/shimizu-etal-2018-pretraining.pdf.png
+../data/paper_pdfs/ACL_2018_Pics/stewart-etal-2018-automatic.pdf.png
+../data/paper_pdfs/ACL_2018_Pics/rashkin-etal-2018-event2mind.pdf.png
+../data/paper_pdfs/ACL_2018_Pics/zhang-zweigenbaum-2018-gneg.pdf.png

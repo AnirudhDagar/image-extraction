@@ -1,0 +1,20 @@
+Total PDFs: 621, Total Images: 602, Total Missing Images: 19
+../data/paper_pdfs/ICML_2018_Pics/paassen18a.pdf.png
+../data/paper_pdfs/ICML_2018_Pics/yan18a.pdf.png
+../data/paper_pdfs/ICML_2018_Pics/hebert-johnson18a.pdf.png
+../data/paper_pdfs/ICML_2018_Pics/zhou18a.pdf.png
+../data/paper_pdfs/ICML_2018_Pics/bartlett18a.pdf.png
+../data/paper_pdfs/ICML_2018_Pics/huang18a.pdf.png
+../data/paper_pdfs/ICML_2018_Pics/athalye18a.pdf.png
+../data/paper_pdfs/ICML_2018_Pics/hong18a.pdf.png
+../data/paper_pdfs/ICML_2018_Pics/vijayaraghavan18a.pdf.png
+../data/paper_pdfs/ICML_2018_Pics/allen-zhu18b.pdf.png
+../data/paper_pdfs/ICML_2018_Pics/mesaoudi-paul18a.pdf.png
+../data/paper_pdfs/ICML_2018_Pics/hu18a.pdf.png
+../data/paper_pdfs/ICML_2018_Pics/yan18b.pdf.png
+../data/paper_pdfs/ICML_2018_Pics/xie18a.pdf.png
+../data/paper_pdfs/ICML_2018_Pics/drutsa18a.pdf.png
+../data/paper_pdfs/ICML_2018_Pics/pan18c.pdf.png
+../data/paper_pdfs/ICML_2018_Pics/dai18d.pdf.png
+../data/paper_pdfs/ICML_2018_Pics/yona18a.pdf.png
+../data/paper_pdfs/ICML_2018_Pics/oglic18a.pdf.png

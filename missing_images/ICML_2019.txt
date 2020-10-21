@@ -1,0 +1,24 @@
+Total PDFs: 773, Total Images: 750, Total Missing Images: 23
+../data/paper_pdfs/ICML_2019_Pics/rosenberg19a.pdf.png
+../data/paper_pdfs/ICML_2019_Pics/resler19a.pdf.png
+../data/paper_pdfs/ICML_2019_Pics/zrnic19a.pdf.png
+../data/paper_pdfs/ICML_2019_Pics/haochen19a.pdf.png
+../data/paper_pdfs/ICML_2019_Pics/yang19b.pdf.png
+../data/paper_pdfs/ICML_2019_Pics/kim19e.pdf.png
+../data/paper_pdfs/ICML_2019_Pics/zhang19c.pdf.png
+../data/paper_pdfs/ICML_2019_Pics/saunshi19a.pdf.png
+../data/paper_pdfs/ICML_2019_Pics/upadhyay19a.pdf.png
+../data/paper_pdfs/ICML_2019_Pics/santiago19a.pdf.png
+../data/paper_pdfs/ICML_2019_Pics/wei19b.pdf.png
+../data/paper_pdfs/ICML_2019_Pics/acharya19a.pdf.png
+../data/paper_pdfs/ICML_2019_Pics/chen19e.pdf.png
+../data/paper_pdfs/ICML_2019_Pics/li19n.pdf.png
+../data/paper_pdfs/ICML_2019_Pics/acharya19b.pdf.png
+../data/paper_pdfs/ICML_2019_Pics/su19b.pdf.png
+../data/paper_pdfs/ICML_2019_Pics/papini19a.pdf.png
+../data/paper_pdfs/ICML_2019_Pics/geist19a.pdf.png
+../data/paper_pdfs/ICML_2019_Pics/kaplan19a.pdf.png
+../data/paper_pdfs/ICML_2019_Pics/cotter19b.pdf.png
+../data/paper_pdfs/ICML_2019_Pics/hao19a.pdf.png
+../data/paper_pdfs/ICML_2019_Pics/chu19a.pdf.png
+../data/paper_pdfs/ICML_2019_Pics/nacson19a.pdf.png

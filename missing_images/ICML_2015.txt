@@ -1,0 +1,12 @@
+Total PDFs: 270, Total Images: 259, Total Missing Images: 11
+../data/paper_pdfs/ICML_2015_Pics/wub15.pdf.png
+../data/paper_pdfs/ICML_2015_Pics/daniely15.pdf.png
+../data/paper_pdfs/ICML_2015_Pics/bai15.pdf.png
+../data/paper_pdfs/ICML_2015_Pics/tewari15.pdf.png
+../data/paper_pdfs/ICML_2015_Pics/tagorti15.pdf.png
+../data/paper_pdfs/ICML_2015_Pics/fetaya15.pdf.png
+../data/paper_pdfs/ICML_2015_Pics/kusnera15.pdf.png
+../data/paper_pdfs/ICML_2015_Pics/agarwal15.pdf.png
+../data/paper_pdfs/ICML_2015_Pics/garbera15.pdf.png
+../data/paper_pdfs/ICML_2015_Pics/jiang15.pdf.png
+../data/paper_pdfs/ICML_2015_Pics/ahn15.pdf.png

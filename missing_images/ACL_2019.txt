@@ -1,0 +1,13 @@
+Total PDFs: 660, Total Images: 648, Total Missing Images: 12
+../data/paper_pdfs/ACL_2019_Pics/patra-etal-2019-bilingual.pdf.png
+../data/paper_pdfs/ACL_2019_Pics/clark-etal-2019-bam.pdf.png
+../data/paper_pdfs/ACL_2019_Pics/feng-etal-2019-learning.pdf.png
+../data/paper_pdfs/ACL_2019_Pics/chung-etal-2019-conan.pdf.png
+../data/paper_pdfs/ACL_2019_Pics/kocijan-etal-2019-surprisingly.pdf.png
+../data/paper_pdfs/ACL_2019_Pics/zhao-etal-2019-towards.pdf.png
+../data/paper_pdfs/ACL_2019_Pics/pimentel-etal-2019-meaning.pdf.png
+../data/paper_pdfs/ACL_2019_Pics/jurgens-etal-2019-just.pdf.png
+../data/paper_pdfs/ACL_2019_Pics/feng-etal-2019-misleading.pdf.png
+../data/paper_pdfs/ACL_2019_Pics/ormazabal-etal-2019-analyzing.pdf.png
+../data/paper_pdfs/ACL_2019_Pics/liu-etal-2019-towards-comprehensive.pdf.png
+../data/paper_pdfs/ACL_2019_Pics/badene-etal-2019-data.pdf.png

@@ -1,0 +1,2 @@
+Total PDFs: 781, Total Images: 780, Total Missing Images: 1
+../data/paper_pdfs/CVPR_2017_Pics/2017202.pdf.png

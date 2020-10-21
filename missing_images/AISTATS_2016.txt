@@ -1,0 +1,11 @@
+Total PDFs: 164, Total Images: 154, Total Missing Images: 10
+../data/paper_pdfs/AISTATS_2016_Pics/nishihara16.pdf.png
+../data/paper_pdfs/AISTATS_2016_Pics/mohri16.pdf.png
+../data/paper_pdfs/AISTATS_2016_Pics/matthews16.pdf.png
+../data/paper_pdfs/AISTATS_2016_Pics/filan16.pdf.png
+../data/paper_pdfs/AISTATS_2016_Pics/chen16e.pdf.png
+../data/paper_pdfs/AISTATS_2016_Pics/rashwan16.pdf.png
+../data/paper_pdfs/AISTATS_2016_Pics/meirom16.pdf.png
+../data/paper_pdfs/AISTATS_2016_Pics/roy16.pdf.png
+../data/paper_pdfs/AISTATS_2016_Pics/sedghi16.pdf.png
+../data/paper_pdfs/AISTATS_2016_Pics/gottlieb16.pdf.png

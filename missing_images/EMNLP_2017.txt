@@ -1,0 +1,12 @@
+Total PDFs: 323, Total Images: 312, Total Missing Images: 11
+../data/paper_pdfs/EMNLP_2017_Pics/wang-etal-2017-exploiting.pdf.png
+../data/paper_pdfs/EMNLP_2017_Pics/schmaltz-etal-2017-adapting.pdf.png
+../data/paper_pdfs/EMNLP_2017_Pics/wang-etal-2017-short.pdf.png
+../data/paper_pdfs/EMNLP_2017_Pics/melamud-etal-2017-simple.pdf.png
+../data/paper_pdfs/EMNLP_2017_Pics/dusmanu-etal-2017-argument.pdf.png
+../data/paper_pdfs/EMNLP_2017_Pics/p-etal-2017-latent.pdf.png
+../data/paper_pdfs/EMNLP_2017_Pics/friedrich-gateva-2017-classification.pdf.png
+../data/paper_pdfs/EMNLP_2017_Pics/isabelle-etal-2017-challenge.pdf.png
+../data/paper_pdfs/EMNLP_2017_Pics/shirakawa-etal-2017-never.pdf.png
+../data/paper_pdfs/EMNLP_2017_Pics/gutierrez-etal-2017-using.pdf.png
+../data/paper_pdfs/EMNLP_2017_Pics/goyal-etal-2017-empirical.pdf.png

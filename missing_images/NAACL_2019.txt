@@ -1,0 +1,8 @@
+Total PDFs: 423, Total Images: 416, Total Missing Images: 7
+../data/paper_pdfs/NAACL_2019_Pics/zhou-etal-2019-density.pdf.png
+../data/paper_pdfs/NAACL_2019_Pics/pilehvar-2019-importance.pdf.png
+../data/paper_pdfs/NAACL_2019_Pics/di-gangi-etal-2019-must.pdf.png
+../data/paper_pdfs/NAACL_2019_Pics/wijnholds-sadrzadeh-2019-evaluating.pdf.png
+../data/paper_pdfs/NAACL_2019_Pics/salesky-etal-2019-fluent.pdf.png
+../data/paper_pdfs/NAACL_2019_Pics/tokala-etal-2019-attentivechecker.pdf.png
+../data/paper_pdfs/NAACL_2019_Pics/pilehvar-camacho-collados-2019-wic.pdf.png
